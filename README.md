@@ -26,7 +26,7 @@ Mostly made from scratch, using WordPress, Divi theme, custom PHP templates and 
 
 An energy optimization company specializing in the installation of photovoltaic panels.
 
-Made from WordPress, Divi theme
+Made from WordPress, Divi theme.
 
 [https://www.performa.be/](https://www.performa.be/)
 
@@ -49,3 +49,12 @@ A good-luck charms reselling website.
 Made with a custom adaptation of the Shopify theme Plak 2.5.
 
 [https://la-porte-du-bonheur.com/](https://la-porte-du-bonheur.com/)
+
+
+## Innovillage
+
+Landing page to show case the eco-concept of an alternative village in Belgium.
+
+Made from WordPress, Divi theme.
+
+[https://www.innovillage.org/](https://www.innovillage.org/)
