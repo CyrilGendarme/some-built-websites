@@ -22,6 +22,26 @@ Mostly made from scratch, using WordPress, Divi theme, custom PHP templates and 
 [https://www.belgae.be/](https://www.belgae.be/)
 
 
+## Performa Energy
+
+An energy optimization company specializing in the installation of photovoltaic panels.
+
+Made from WordPress, Divi theme
+
+[https://www.performa.be/](https://www.performa.be/)
+
+
+## Invest Sensei
+
+(Still in development)
+
+A website that provides investment advice on financial markets, cryptocurrencies, and real estate.
+
+Mostly made from scratch, using WordPress, Divi theme, custom PHP templates and JS code snippets.
+
+[https://www.investsensei.com/](https://www.investsensei.com/)
+
+
 ## La Porte Du Bonheur
 
 A good-luck charms reselling website.
@@ -29,6 +49,3 @@ A good-luck charms reselling website.
 Made with a custom adaptation of the Shopify theme Plak 2.5.
 
 [https://la-porte-du-bonheur.com/](https://la-porte-du-bonheur.com/)
-
-
-
