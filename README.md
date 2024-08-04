@@ -31,15 +31,11 @@ Made from WordPress, Divi theme.
 [https://www.performa.be/](https://www.performa.be/)
 
 
-## Invest Sensei
+## Sensei Editions
 
-(Still in development)
+An international book publishing company. We have created the website from A to Z.
 
-A website that provides investment advice on financial markets, cryptocurrencies, and real estate.
-
-Mostly made from scratch, using WordPress, Divi theme, custom PHP templates and JS code snippets.
-
-[https://www.investsensei.com/](https://www.investsensei.com/)
+[https://www.sensei-editions.com/](https://www.sensei-editions.com/)
 
 
 ## La Porte Du Bonheur
@@ -58,3 +54,24 @@ Landing page to show case the eco-concept of an alternative village in Belgium.
 Made from WordPress, Divi theme.
 
 [https://www.innovillage.org/](https://www.innovillage.org/)
+
+
+## Ardor 
+
+A multilingual fashion website centered on classic era aesthetic and values. Creation of the website from the scratch.
+
+[https://www.ardor-antwerp.com/](https://www.ardor-antwerp.com/)
+
+
+## Graphein
+
+Creation of a fashion website with a focus on rave music. Creation of the design, graphic elements and website from the scratch.
+
+[https://www.graphein-apparel.com/](https://www.graphein-apparel.com/)
+
+
+## Heroes of Heronia (website)
+
+A 2-D roguelite action game based. Developed using Java/libGDX. Deployed on Linux, Windows and Android.
+
+[https://www.heroes-heronia.com/](https://www.heroes-heronia.com/)
