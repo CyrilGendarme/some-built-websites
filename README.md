@@ -1,1 +1,1 @@
-Just check [my portfolio as freelance web dev](https://www.cgen-web-developpement.com/en/category/portfolio/)
+Just check [my portfolio as freelance dev](https://www.cyrilgendarme.com/en/portfolio/)
